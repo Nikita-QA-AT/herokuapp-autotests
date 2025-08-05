@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 .venv/
-.idea/
 .env
 .DS_Store
 .pytest_cache/
