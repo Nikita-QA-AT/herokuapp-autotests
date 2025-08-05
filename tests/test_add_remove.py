@@ -41,4 +41,3 @@ def test_add_button(driver):
     for btn in delete_buttons:
         btn.click()
         time.sleep(1)
-    test push from work computer
